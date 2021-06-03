@@ -1,0 +1,13 @@
+console.log('Hello Winc Academy');
+let name='Jeske';
+console.log('Jeske');
+var x = (2 + 2);
+console.log(x);
+var x = (3 * 3);
+console.log(x);
+let age='32';
+typeof age;
+console.log(age);
+var txt='32';
+typeof txt;
+console.log(txt);
